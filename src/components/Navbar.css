@@ -1,0 +1,47 @@
+/* ===== Navbar.css ===== */
+.navbar {
+    background: linear-gradient(135deg, #2a0261 0%, #69049f 100%);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 5rem;
+    max-width: 1850px;
+    margin: 0 auto;
+    box-shadow: 0 4px 12px rgba(64, 0, 98, 0.5);
+    /* Purple glow instead of dark shadow */
+    backdrop-filter: blur(2px);
+    /* slight blur for better blending */
+}
+
+.navbar-left .brand {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-right {
+    display: flex;
+    gap: 2.5rem;
+    flex-wrap: nowrap;
+}
+
+.navbar-right a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1rem;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.navbar-right a:hover {
+    color: #D0A2F7;
+    text-shadow: 0 0 10px #D0A2F7, 0 0 20px #D0A2F7;
+}
+
+section {
+    padding-top: 60px; }
