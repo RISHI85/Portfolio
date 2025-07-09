@@ -44,17 +44,18 @@ const Experience = () => {
 
       {/* Resume Buttons */}
       <div className="resume-download reveal-up" id="resume-buttons">
-        <a
-          href='/test.pdf'
-          target="_blank"
-          rel="noopener noreferrer"
-          className="download-btn"
-        >
-          View Resume
-        </a>
-        <a href='/test.pdf' download className="download-btn">
-          Download Resume
-        </a>
+      <a
+  href='/test.pdf'
+  target="_blank"
+  rel="noopener noreferrer"
+  className="download-btn"
+>
+  View Resume
+</a>
+
+<a href='/test.pdf' download className="download-btn">
+  Download Resume
+</a>
       </div>
     </section>
   );

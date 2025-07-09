@@ -21,7 +21,7 @@ const projectData = [
     description:
       "A real-time one-to-one chat app using Socket.io for bidirectional messaging. Supports live messaging, dynamic chat windows, and message persistence.",
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io"],
-    link: "https://github.com/RISHI85/Chat-App",
+    link: "https://github.com/RISHI85/Chatty-Real-time-chat-App",
   },
 ];
 
