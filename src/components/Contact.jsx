@@ -10,7 +10,6 @@ const Contact = () => {
         <Row>
           <Col md={6} className="contact-details">
             <h4>Contact Me</h4>
-            <p><FaPhone /> &nbsp; +91 9014460045</p>
             <p><FaEnvelope /> &nbsp; sairishipalavalasa1108@gmail.com</p>
           </Col>
           <Col md={6} className="social-links">
