@@ -17,7 +17,6 @@ const Contact = () => {
             <div className="icons">
               <a href="https://github.com/RISHI85" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
               <a href="https://www.linkedin.com/in/sairishipalavalasa/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
-              <a href="https://www.hackerrank.com/sairishi1108" target="_blank" rel="noopener noreferrer"><FaHackerrank /></a>
               <a href="https://leetcode.com/sairishipalavalasa/" target="_blank" rel="noopener noreferrer"><FaCode /></a>
             </div>
           </Col>

@@ -40,6 +40,9 @@ const Experience = () => {
         <li>Internship Certificate – Hashtek Solutions on AWS (2024)</li>
         <li> Core Java- Coursera (2024)</li>
         <li>Google Cloud Computing Fundamentals & Generative AI- GDSC (2023)</li>
+        <li>AWS Academy Graduate - AWS Academy Cloud Foundations</li>
+        <li>Programming with Python - Coursera(META)</li>
+        <li>SQL - Advanced - HackerRank </li>
       </ul>
 
       {/* Resume Buttons */}
